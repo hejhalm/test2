@@ -29,3 +29,5 @@ _Strana Návrhu řešení:	512\
 Potvrzení aktualizace: 	email od pana Nováka ze 15.06.2018 14:30\
 Projednána na PT:	25. 9. 2018\
 Typ aktualizace:	Doplněno._
+
+druhá změna
